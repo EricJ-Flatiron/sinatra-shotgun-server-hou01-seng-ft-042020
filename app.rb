@@ -6,4 +6,16 @@ class App < Sinatra::Base
     "Welcome to your app!!!! "
   end
 
+  get '/hello' do
+
+  end
+
+  get '/goodbye' do
+
+  end
+
+  get '/date' do
+
+  end
+
 end
